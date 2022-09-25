@@ -1,5 +1,5 @@
 <template>
- <div class="hello">暂未开发</div>
+ <div class="hello">商品管理暂未开发</div>
 </template>
 
 <script lang="ts">
